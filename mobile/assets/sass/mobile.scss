@@ -1,0 +1,188 @@
+.mobile-theme .home_content_wrap .v-content__wrap {
+    padding: 10px 0%;
+}
+.mobile-theme .v-content__wrap {
+    padding: 40px 0% !important
+}
+.mobile-theme .deal-description {
+    color: #a9a9a9;
+    font-size: 11px;
+}
+.mobile-theme .deal-title {
+    font-size: 13px
+}
+.mobile-theme .theme--light.v-toolbar {
+    background-color: #ffffff;
+    color: rgba(0,0,0,.87);
+}
+.mobile-theme .primary-navbar {
+    height: 65px !important
+}
+.theme--light .mobile-theme .primary-navbar {
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.09);
+    background-color: #4285f4;
+    color: #FFF;
+    padding: 6px 0;
+}
+.theme--light .mobile-theme .primary-navbar .v-btn {
+    color: #FFF
+}
+.mobile-theme .primary-navbar .v-toolbar__content {
+    height: 52px !important
+}
+.theme--dark .mobile-theme .lightbox {
+    background: linear-gradient(to right, #383838, #232526);
+}
+.mobile-theme .lightbox {
+    background-image: radial-gradient(circle farthest-corner at 10% 20%, #00a0e1 0%, #1646d4 90.1%);
+}
+.mobile-theme .section-title {
+    margin-bottom: 16px;
+}
+.application--is-rtl .mobile-theme .section-title h3 {
+    font-weight: 500;
+    float: right;
+    padding-right: 2px
+}
+.mobile-theme .section-title h3 {
+    font-weight: 600;
+    font-family: 'Hind', 'Noto Kufi Arabic', sans-serif;
+    font-size: 14px;
+    float: left;
+    padding-left: 2px
+}
+.application--is-rtl .mobile-theme .more {
+    text-align: left;
+    float: left;
+}
+.mobile-theme .more {
+    text-align: right;
+    float: right;
+    overflow: hidden;
+}
+.application--is-rtl .mobile-theme .section-title .more a {
+    letter-spacing: 0px;
+    font-size: 12px
+}
+.mobile-theme .section-title .more a {
+    color: rgb(41, 151, 233);
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.mobile-theme .slider-lightbox {
+    background: -webkit-linear-gradient(top left, rgba(64, 128, 255, 0.66), rgba(27, 80, 185, 0.7));
+    background: -o-linear-gradient(top left, rgba(64, 128, 255, 0.66), rgba(27, 80, 185, 0.7));
+    background: linear-gradient(to bottom right, rgba(64, 128, 255, 0.66), rgba(27, 80, 185, 0.7));
+}
+.mobile-theme .slideshow {
+    margin-top: 65px;
+    text-align: center;
+}
+.mobile-theme .slideshow .swiper-pagination-bullet {
+    background-color: #fff !important;
+}
+.theme--light .mobile-theme .primary-navbar {
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.09);
+    background-color: #4285f4;
+    color: #FFF;
+    padding: 6px 0;
+    height: 65px !important;
+}
+.mobile-theme .translate-languages .v-list-item {
+    height: 40px;
+    min-height: 40px;
+}
+.theme--dark .mobile-theme .slider-lightbox {
+    background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.66), rgba(0, 0, 0, 0.7));
+}
+.mobile-theme .home_content_wrap {
+    padding: 0px 0px 0px !important
+}
+.mobile-theme .home_content_wrap .v-content__wrap {
+    padding: 10px 0% !important
+}
+.theme--dark .deal-title, .theme--dark .deal-price {
+    color: #FFF !important
+}
+.mobile-theme .category-box .v-avatar img, .mobile-theme .category-box .v-avatar .v-icon {
+    border-radius: 50px;
+}
+.theme--dark .store-title {
+    color: #FFF !important
+}
+.theme--dark .store-card .tagline {
+    font-size: 10px;
+    color: #929292;
+    letter-spacing: 1px;
+}
+.v-application--is-rtl .auth-goback {
+    float: left;
+}
+.auth-goback {
+    float: right;
+}
+.mobile-theme .v-overlay {
+    z-index: 9 !important;
+}
+.translate-languages .v-list-item {
+    min-height: 40px;
+    height: 40px;
+}
+.search-field .search-looking .v-input__slot {
+    margin-top: 17px !important;
+}
+.search-field .v-text-field.v-text-field--solo .v-input__control {
+    min-height: 45px;
+}
+.deal-bottom-actions .v-btn {
+    height: auto !important;
+}
+.theme--dark .ck.ck-reset_all * {
+    color: #fafafa
+}
+.theme--dark .ck.ck-editor .ck-editor__top .ck-sticky-panel .ck-toolbar {
+    background-color: #4c4b4b;
+    border-color: #4c4b4b;
+}
+.theme--dark .ck.ck-toolbar .ck.ck-toolbar__separator {
+    background: #505050;
+}
+.theme--dark .package-days {
+    color: #d2d2d2 !important;
+}
+.theme--dark .table-wrap-title {
+    color: #ffffff !important;
+}
+.theme--dark .store-card .no-shop-logo img {
+    box-shadow: 0 0 0 3pt #3f3f3f;
+}
+.theme--dark .pagination > li > a {
+    background-color: #424242;
+    color: #a9a9a9;
+}
+.theme--dark .page-item .v-icon {
+    color: #b6b6b6;
+}
+.theme--dark input:-webkit-autofill {
+    -webkit-text-fill-color: rgb(245, 245, 245) !important;
+}
+.v-navigation-drawer--temporary, .v-navigation-drawer--fixed {
+    z-index: 10 !important;
+}
+.theme--dark .v-data-table td a {
+    color: #ffffff !important;
+}
+.theme--dark .has-float-label > span:after, .theme--dark .has-float-label label:after {
+    background: #424242 !important;
+}
+.theme--dark .has-float-label > span:last-of-type, .theme--dark .has-float-label label {
+    color: #b0b0b0;
+}
+.border-radius {
+    border-radius: 50% !important
+}
+.administrator-section .manager-header .v-toolbar__content {
+    height: 56px !important;
+}
